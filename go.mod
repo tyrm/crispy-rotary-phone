@@ -1,0 +1,1 @@
+module "github.com/tyrm/crispy-rotary-phone"
