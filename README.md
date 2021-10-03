@@ -6,3 +6,6 @@ a generic repo
 [![Release](https://img.shields.io/github/release/tyrm/crispy-rotary-phone.svg?style=flat-square)](https://github.com/tyrm/crispy-rotary-phone/releases/latest)
 [![License](https://img.shields.io/github/license/tyrm/crispy-rotary-phone)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/tyrm/crispy-rotary-phone)](https://pkg.go.dev/github.com/tyrm/crispy-rotary-phone)
+
+## Layout Conventions
+following: https://github.com/golang-standards/project-layout
